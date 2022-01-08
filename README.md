@@ -1,3 +1,13 @@
+# DEPRECATED
+
+Use `@types/guacamole-client`.
+
+```shell
+npm i @types/guacamole-client 
+# or
+yarn add @types/guacamole-client
+```
+
 Work in progress typescript definitions based on http://guacamole.apache.org/doc/guacamole-common-js/
 
 How to install:
